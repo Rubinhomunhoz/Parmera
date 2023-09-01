@@ -24,11 +24,18 @@ justify-content: space-around;
 }
 
 .Maior_do_mundo{
-    background-color: #FFFFFF;
+background-color: #FFFFFF;
 width: 100%; 
 height: 307px;
 display: flex;
 justify-content: space-around;
 }
 
+.Quadro2{
+    background-color: #FFFFFF;
+    width: 100%; 
+    height: 248px;
+    display: flex;
+    justify-content: space-around;
+}
 
